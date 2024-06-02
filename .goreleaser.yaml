@@ -48,7 +48,7 @@ changelog:
 
 brews:
   - name: gov-test
-    homepage: https://github.com/dev-ujin/gov-test
+    homepage: https://github.com/dev-ujin/homebrew-gov-test
     tap:
       owner: dev-ujin
       name: homebrew-gov-test
