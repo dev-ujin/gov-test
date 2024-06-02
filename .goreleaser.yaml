@@ -49,10 +49,9 @@ changelog:
 brews:
   - name: gov-test
     homepage: https://github.com/dev-ujin/gov-test
-    tag:
+    tap:
       owner: dev-ujin
       name: gov-test
     commit_author:
       name: dev-ujin
       email: youjin.lee.dev@gmail.com
-      
