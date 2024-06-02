@@ -51,7 +51,7 @@ brews:
     homepage: https://github.com/dev-ujin/gov-test
     tap:
       owner: dev-ujin
-      name: gov-test
+      name: homebrew-gov-test
     commit_author:
       name: dev-ujin
       email: youjin.lee.dev@gmail.com
